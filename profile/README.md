@@ -1,7 +1,8 @@
-## UNLOCK
+![UNLOCK](logo_unlock_tagline_color.png "a title")
 
-We host our code repositories on [https://www.gitlab.com/m-unlock](https://www.gitlab.com/m-unlock)
+Our code repositories are on [https://www.gitlab.com/m-unlock](https://www.gitlab.com/m-unlock)
 
+## For example:
 
 **FAIR DATA STATION**  
 [https://www.gitlab.com/m-unlock/fairds](https://www.gitlab.com/m-unlock/fairds)
