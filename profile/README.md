@@ -1,4 +1,4 @@
-![UNLOCK](logo_unlock_tagline_color.png "a title")
+![UNLOCK](profile/logo_unlock_tagline_color.png "a title")
 
 Our code repositories are on [https://www.gitlab.com/m-unlock](https://www.gitlab.com/m-unlock)
 
