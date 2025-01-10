@@ -1,4 +1,4 @@
-![UNLOCK.com](logo_unlock_tagline_color.png "VISIT UNLOCK")
+[![UNLOCK.com](logo_unlock_tagline_color.png)](https://www.unlock.com/)
 
 Our code repositories are on [https://www.gitlab.com/m-unlock](https://www.gitlab.com/m-unlock)
 
